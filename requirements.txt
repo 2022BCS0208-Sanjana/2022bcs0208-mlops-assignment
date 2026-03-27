@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+mlflow
+fastapi
+uvicorn
+joblib
+boto3
+dvc[s3]
